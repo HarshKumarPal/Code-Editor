@@ -1,6 +1,8 @@
 # Code-Editor
 A Simple web-based code editor built using HTML, CSS, and JavaScript.
 
+
+
 Features
 
 1. Syntax highlighting for HTML, CSS, and JavaScript
@@ -13,16 +15,20 @@ Installation
 1. Clone the repository:
    
    git clone https://github.com/HarshKumarPal/code-editor.git
+   
 
-2. Navigate into the project directory:
+3. Navigate into the project directory:
    
    cd code-editor
 
-3. Open index.html in your browser:
+
+4. Open index.html in your browser:
 
    (a) Right-click on the index.html file.
 
    (b) Select "Open with" and choose your preferred browser.
+
+
 
 
 Usage:
@@ -34,9 +40,11 @@ Usage:
    (c) Load: Click on the Load button to load previously saved code from Local Storage.
    
 
+
 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you want to change.
+
 
 
 License
