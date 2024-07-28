@@ -12,26 +12,32 @@ Installation
 
 1. Clone the repository:
    
-git clone https://github.com/HarshKumarPal/code-editor.git
+   git clone https://github.com/HarshKumarPal/code-editor.git
 
 2. Navigate into the project directory:
    
-cd code-editor
+   cd code-editor
 
 3. Open index.html in your browser:
 
-(a) Right-click on the index.html file.
-(b) Select "Open with" and choose your preferred browser.
+   (a) Right-click on the index.html file.
 
-Usage
+   (b) Select "Open with" and choose your preferred browser.
 
-(a) Code Editing: Start editing HTML, CSS, and JavaScript code directly in the editor.
-(b) Save: Click on the Save button to save your code to Local Storage.
-(c) Load: Click on the Load button to load previously saved code from Local Storage.
+
+Usage:
+
+   (a) Code Editing: Start editing HTML, CSS, and JavaScript code directly in the editor.
+
+   (b) Save: Click on the Save button to save your code to Local Storage.
+
+   (c) Load: Click on the Load button to load previously saved code from Local Storage.
+   
 
 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you want to change.
+
 
 License
 
